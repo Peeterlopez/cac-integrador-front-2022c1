@@ -1,3 +1,22 @@
 p{
     margin-bottom: 8px;
 }
+
+.portrait{
+    background-image: url(../img/ba1.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+    background-position: center center;
+        
+}
+.blackbox{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 600px;
+}
+.texto{
+    padding-top: 12rem;
+    padding-right: 4rem;
+    text-align: right;
+    padding-left: 55%;
+}
